@@ -10,6 +10,10 @@
 <body>
   <h1>Hello World</h1>
   <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique alias, totam hic dolorum nam id minus eum corrupti tenetur nostrum voluptatum fugit voluptatibus reiciendis libero molestias blanditiis quam a quidem.</p>
-</body>
+  <ul>
+    <li>satu</li>
+    <li>dua</li>
+  </ul>
+  /body>
 
 </html>
